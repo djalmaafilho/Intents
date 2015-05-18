@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">Intents</string>
-
+    <string name="bt_intent">Intent</string>
+    <string name="bt_rota">Rota</string>
+    <string name="bt_contatos">Contatos</string>
+    <string name="bt_foto">Foto</string>
+    <string name="bt_mapas">Mapas</string>
+    <string name="bt_restaurantes">Restaurantes</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_intent">IntentActivity</string>
 </resources>
